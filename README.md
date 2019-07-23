@@ -75,7 +75,6 @@ In the future, I plan on updating the code to accommodate specific needs such th
 - Rewrite the file_path to be a list such that it would be possible for a user to input multiple files instead of having to send an email per file.
 - Writing a GUI for the manual console call so that the user does not have to use the command prompt. 
   - Or, just rewriting the command prompt REPL so that it is easier to read and has checks to make sure that variables are correct.
-- 
 
 
 
